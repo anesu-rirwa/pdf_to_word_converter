@@ -19,7 +19,7 @@ This Streamlit app allows you to easily convert PDF files to Microsoft Word docu
 2. **Install required packages:**
 
     ```bash
-    pip install streamlit PyPDF2 docx
+    pip install streamlit pypdf python-docx
     ```
 
 ## Usage
@@ -41,7 +41,8 @@ This Streamlit app allows you to easily convert PDF files to Microsoft Word docu
 * streamlit: For building the web application.
 * PyPDF2: For reading and manipulating PDF files.
 * docx: For creating and manipulating Word documents.
-* Contributing:
+  
+## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request with any improvements or bug fixes.
 
